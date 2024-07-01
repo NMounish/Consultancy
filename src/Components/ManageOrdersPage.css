@@ -1,0 +1,50 @@
+/* ManageOrdersPage.css */
+
+.manage-orders {
+    padding: 20px;
+  }
+  
+  .filters {
+    margin-bottom: 20px;
+  }
+  
+  .orders-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  
+  .order-item {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .order-item h3 {
+    margin-top: 0;
+  }
+  
+  .actions button {
+    margin-right: 10px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .actions button:first-of-type {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .actions button:nth-of-type(2) {
+    background-color: #28a745;
+    color: white;
+  }
+  
+  .actions button:last-of-type {
+    background-color: #ffc107;
+    color: black;
+  }
+  

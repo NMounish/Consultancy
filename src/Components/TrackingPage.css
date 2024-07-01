@@ -1,0 +1,33 @@
+/* TrackingPage.css */
+
+.tracking-page {
+    padding: 20px;
+  }
+  
+  .tracking-form {
+    margin-bottom: 20px;
+  }
+  
+  .tracking-form input[type="text"] {
+    padding: 10px;
+    margin-right: 10px;
+    width: 200px;
+  }
+  
+  .tracking-form button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .order-status {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  

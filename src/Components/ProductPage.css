@@ -1,0 +1,79 @@
+.product
+{
+  background-image: url("C:\React\brown-blue-color-palette-tailoring-leather-tissues-catalog.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  color: white;
+}
+.product-page {
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    flex-direction: column;
+  
+  }
+  .product-image {
+    background-image: url("C:\React\Brown-Leather-Bag-PNG-Clipart.png");
+    background-size: cover;
+    background-position: center ;
+    width: 400px;
+    height: 400px;
+    border-radius: 8px;
+    right: 10px;
+  }
+  .product-image1 {
+    background-image: url("C:\React\elegant-brown-leather-shoes-men-brown-background-photo-studio-style-ai-generative-removebg-preview.png");
+    background-size: cover;
+    background-position: center ;
+    width: 400px;
+    height: 400px;
+    border-radius: 8px;
+    right: 10px;
+  }
+  .product-image2 {
+    background-image: url("C:\React\leather-belt-removebg-preview.png");
+    background-size: cover;
+    background-position: center ;
+    width: 300px;
+    height: 300px;
+    border-radius: 8px;
+    right: 10px;
+    
+  }
+  
+  
+  
+  .product-details {
+    margin-left: 50px;
+  }
+  
+  .price {
+    font-size: 24px;
+    color: white;
+  }
+  
+  .description {
+    margin-top: 20px;
+    color: white;
+  }
+  
+  .add-to-cart {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .add-to-cart:hover {
+    background-color: #0056b3;
+  }
+  

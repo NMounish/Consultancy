@@ -1,0 +1,14 @@
+/* DashboardPage.css */
+
+.dashboard-page {
+    padding: 20px;
+  }
+  
+  .chart-container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+  }
+  
